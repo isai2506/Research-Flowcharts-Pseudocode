@@ -1,51 +1,57 @@
 # Research-Flowcharts-Pseudocode
 HW 
-links in markdown
+# Welcome to StackEdit!
 
  
 
-format [text](link)
-* example of hyperlinks are [this link](www.stackoverflow.com), [another](www.google.com)
+## encabezado 2
+texto normal
 
  
 
-
-flowcharts
-
- 
-
-And this will produce a flow chart:
-
- 
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+a piece of code
+```javascript
+function test() 
+{ 
+    console.log("look ma’, no spaces");
+}
+```
+normal text
+```python
+print(another code block)
 ```
 
  
 
-
-or this
-
- 
-
-###FlowChart
+### encabezado 3
 
  
 
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
+como generar listas
+* elemento
+* otro elemento
+* another
+* final
 
  
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
+ordered
+1. element 
+2. other
+3. another
+
+ 
+
+**negritas** _cursiva_ y normal
+__negritas__ *cursiva* normal
+
+ 
+
+$E = \frac{1}{2}mv^2$
+
+ 
+
+## Operators
+logical operators are 
+* AND  &&
+* OR  ||
