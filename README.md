@@ -11,11 +11,10 @@
 Is a **series of steps** that you have to follow in order to comple a task.
 ### Characteristics:
 
--It have to be clear
+- It have to be clear
 
--It should have a well define input
--
--
+- It should have a well define input and output
+
 # Algorithm representation:
 
 ### Differentiate control structures in the design and construction of an algorithm:
