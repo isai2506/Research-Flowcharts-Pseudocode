@@ -2,12 +2,13 @@
 
 (4 points total) Research about the syllabus, the first three topics described in detail in the past sessions. Just send the github-link of the markdown file. It must contain all of the subjects and some chunks of code where you think is ok.
 
-## Fundamental concepts 
+# Fundamental concepts:
 ### Algorithim: 
-
+Is a series of steps that you have to follow in order to comple a task.
 ### Characteristics:
 
-## Algorithm representation 
+# Algorithm representation:
+
 ### Differentiate control structures in the design and construction of an algorithm:
 - Selective structures
 - Repetitive structures
@@ -17,8 +18,7 @@
 - Graph: Flow chart
 - Written: pseudocode ** 
 
-
-## Data types and expressions
+# Data types and expressions: 
 ### Define the characteristics of the variables and constants
 
 ### Types of computational data:
