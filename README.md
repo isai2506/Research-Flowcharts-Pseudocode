@@ -1,7 +1,8 @@
 # Research-Flowcharts-Pseudocode Antonio Ruiz Nolasco and Isai Massa Mandujano
 HW Isai Massa and Antonio Ruiz
-##Fundamental concepts
 
-##Algorithm representation
+## Fundamental concepts
 
-##Data types and expressions
+## Algorithm representation
+
+## Data types and expressions
