@@ -8,7 +8,7 @@
 
 # Fundamental concepts:
 ### Algorithim: 
-Is a series of steps that you have to follow in order to comple a task.
+Is a **series of steps** that you have to follow in order to comple a task.
 ### Characteristics:
 
 # Algorithm representation:
