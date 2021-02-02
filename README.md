@@ -10,7 +10,9 @@
 ### Algorithim: 
 Is a **series of steps** that you have to follow in order to comple a task.
 ### Characteristics:
+
 -It have to be clear
+
 -It should have a well define input
 -
 -
